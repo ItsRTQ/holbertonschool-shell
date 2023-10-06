@@ -1,2 +1,1 @@
-# holbertonschool-shell
-holberton 2 git proyect
+This is a practice proyect made by holberton
