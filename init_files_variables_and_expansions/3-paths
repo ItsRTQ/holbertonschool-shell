@@ -1,2 +1,2 @@
 #!/bin/bash
-find /bin -type d -print | wc -l
+echo "$PATH" | grep -o "/" | wc -l
